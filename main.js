@@ -1,1 +1,5 @@
-console.log('horror')
+const deathObj = {
+    time : [],
+    monster : [],
+    how : []
+}
